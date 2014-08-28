@@ -4,7 +4,7 @@
 This simple script was written quite a few years ago, but it is here to demonstrate I have used PHP and mySQL.
 
 The purpose of this script was to maintain a database of IP addresses I wanted to ban from accessing my sites.
-With this script you could add or remove an IP address from a MySQL database. 
+With this script you could add or remove an IP address from a MySQL database, using a simple HTML form.
 
 */
 
